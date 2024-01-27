@@ -176,7 +176,7 @@ html, body {
 }
 
 .contact p i{
-    color: var(--color-grey);
+    color: var(--color-white);
     margin-right: 15px;
     font-size: 25px;
 }
